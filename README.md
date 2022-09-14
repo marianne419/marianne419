@@ -1,7 +1,7 @@
 # Olá, me chamo Marianne !
 ### Bem vindo ao meu perfil GitHub 👋
 ## Sobre mim
-Após 3 anos de experiencia na área financeira, decidi fazer transição de carreira para tecnologia com foco em qualide de software. 
+Após 3 anos de experiencia na área financeira, decidi fazer transição de carreira para tecnologia com foco em qualidade de software. 
 Estudo em forma autodidata.
 Cada vez mais apaixonada pelo mundo da tecnologia. Em constante aprendizado. Sempre aberta para aprender novos conhecimentos.
 
@@ -13,6 +13,10 @@ Cada vez mais apaixonada pelo mundo da tecnologia. Em constante aprendizado. Sem
 - BDD
 - Teste API POSTMAN
 - Teste funcional manual Web
+
+### Estudando:
+- Java
+- Banco de dados
 
 ### Ferramentas e Tecnologias:
 
