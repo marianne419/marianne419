@@ -13,10 +13,16 @@ Cada vez mais apaixonada pelo mundo da tecnologia. Em constante aprendizado. Sem
 - BDD
 - Teste API POSTMAN
 - Teste funcional manual Web
+- Banco de dados MongoDB
+- Banco de dados SQLServer, MySQL
+- Algoritmos e logica de programação
+- HTML
+- CSS
+- Básicos em JavaScript
 
 ### Estudando:
 - Java
-- Banco de dados
+- Automação de testes 
 
 ### Ferramentas e Tecnologias:
 
