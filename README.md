@@ -1,4 +1,4 @@
-# Olá, me chamo Marianne !
+# Olá, me chamo Marianne!
 ### Bem vindo ao meu perfil GitHub 👋
 ## Sobre mim
 Após 3 anos de experiência na área financeira, fiz minha transição de carreira bem-sucedida para a área de Tecnologia, com ênfase em Qualidade de Software. Há mais de 1 ano, atuo como Analista de Testes, acumulando experiência significativa em testes sistema web e mobile, além de habilidades em SQL e NoSQL, entre outras como:
@@ -12,13 +12,14 @@ Após 3 anos de experiência na área financeira, fiz minha transição de carre
 - Partição de equivalência
 - BDD
 - Teste API com POSTMAN
-- Teste funcional manual Web
-- Banco de dados MongoDB
-- Banco de dados SQLServer, MySQL
-- Algoritmos e logica de programação
-- HTML
-- CSS
-- JavaScript
+- Teste funcional manual WEB
+- Participação de projeto de teste WEB na Crowdtest
+
+Versionamento: Git e GitHub
+Metodologia ágil: Scrum, Kanban, ShapeUp
+Ferramentas ALM(Gerenciamento do Ciclo de Vida de Aplicações): Jira, Azure, Clickup.
+Banco de dados: SQL Server, PostgreSQL, MySQL, MongoDB.
+Desenvolvimento: Algoritmos e lógica de programação, HTML, CSS, JavaScript.
 
 ### Estudando:
 - Automação de testes 📚🤖
