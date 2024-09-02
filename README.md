@@ -1,28 +1,29 @@
 # Olá, me chamo Marianne !
 ### Bem vindo ao meu perfil GitHub 👋
 ## Sobre mim
-Após 3 anos de experiencia na área financeira, decidi fazer transição de carreira para tecnologia com foco em qualidade de software. 
-Estudo em forma autodidata.
-Cada vez mais apaixonada pelo mundo da tecnologia. Em constante aprendizado. Sempre aberta para aprender novos conhecimentos.
+Após 3 anos de experiência na área financeira, fiz minha transição de carreira bem-sucedida para a área de Tecnologia, com ênfase em Qualidade de Software. Há mais de 1 ano, atuo como Analista de Testes, acumulando experiência significativa em testes sistema web e mobile, além de habilidades em SQL e NoSQL, entre outras como:
 
-### Meus conhecimentos:
-- Qualidade de software
+### Experiencias:
+- Teste WEB
+- Teste mobile
+- Planejamento e execução de testes
 - Níves de teste
 - Técnicas de teste
-- Tipos de teste
+- Testes funcionais
+- Testes exploratórios
+- Partição de equivalência
 - BDD
-- Teste API POSTMAN
+- Teste API com POSTMAN
 - Teste funcional manual Web
 - Banco de dados MongoDB
 - Banco de dados SQLServer, MySQL
 - Algoritmos e logica de programação
 - HTML
 - CSS
-- Básicos em JavaScript
+- JavaScript
 
 ### Estudando:
-- Java
-- Automação de testes 
+- Automação de testes 📚🤖
 
 ### Ferramentas e Tecnologias:
 
