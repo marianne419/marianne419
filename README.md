@@ -4,8 +4,6 @@
 Após 3 anos de experiência na área financeira, fiz minha transição de carreira bem-sucedida para a área de Tecnologia, com ênfase em Qualidade de Software. Há mais de 1 ano, atuo como Analista de Testes, acumulando experiência significativa em testes sistema web e mobile, além de habilidades em SQL e NoSQL, entre outras como:
 
 ### Experiencias:
-- Teste WEB
-- Teste mobile
 - Planejamento e execução de testes
 - Níves de teste
 - Técnicas de teste
