@@ -14,12 +14,11 @@ Após 3 anos de experiência na área financeira, fiz minha transição de carre
 - Teste API com POSTMAN
 - Teste funcional manual WEB
 - Participação de projeto de teste WEB na Crowdtest
-
-Versionamento: Git e GitHub
-Metodologia ágil: Scrum, Kanban, ShapeUp
-Ferramentas ALM(Gerenciamento do Ciclo de Vida de Aplicações): Jira, Azure, Clickup.
-Banco de dados: SQL Server, PostgreSQL, MySQL, MongoDB.
-Desenvolvimento: Algoritmos e lógica de programação, HTML, CSS, JavaScript.
+- Versionamento: Git e GitHub
+- Metodologia ágil: Scrum, Kanban, ShapeUp
+- Ferramentas ALM(Gerenciamento do Ciclo de Vida de Aplicações): Jira, Azure, Clickup.
+- Banco de dados: SQL Server, PostgreSQL, MySQL, MongoDB.
+- Desenvolvimento: Algoritmos e lógica de programação, HTML, CSS, JavaScript.
 
 ### Estudando:
 - Automação de testes 📚🤖
