@@ -1,7 +1,7 @@
 # Olá, me chamo Marianne!
 ### Bem vindo ao meu perfil GitHub 👋
 ## Sobre mim
-Após 3 anos de experiência na área financeira, fiz minha transição de carreira bem-sucedida para a área de Tecnologia, com ênfase em Qualidade de Software. Há mais de 1 ano, atuo como Analista de Testes, acumulando experiência significativa em testes sistema web e mobile, além de habilidades em SQL e NoSQL, entre outras como:
+Há mais de 2 anos, atuo como Analista de Testes, acumulando experiência significativa em testes sistema web e mobile, além de habilidades em SQL e NoSQL, entre outras como:
 
 ### Experiencias:
 - Planejamento e execução de testes
